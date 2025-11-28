@@ -1,104 +1,27 @@
-<div align="left">
-<pre>
-<font color="#0f0">user</font><font color="#fff">@</font><font color="#0ff">github</font>:<font color="#ff0">~</font>$ <b>whoami</b>
-<font color="#0f0">------------------------------------------------</font>
-<font color="#fff">
-Hey, I'm Mohamed, but you can call me Mr.Kholio.
-</font>
-<font color="#fff">
-I'm a Graphic Designer and Video Editor who's also passionate about programming.
-</font>
-<font color="#fff">
-My goal? To break things... and minds.
-</font>
-<font color="#0f0">------------------------------------------------</font>
-</pre>
-</div>
+# 💫 About Me:
+Hey, I’m Mohamed — aka Mr. kholio.<br>A hybrid between Graphic Designer, Video Editor, and Front-End Developer who likes building things that look clean, run smooth, and make sense.<br><br>I enjoy turning ideas into usable interfaces, optimizing the small details, and automating repetitive tasks
 
-<div align="left">
-<pre>
-<font color="#0f0">user</font><font color="#fff">@</font><font color="#0ff">github</font>:<font color="#ff0">~</font>$ <b>sudo cat current_focus.txt</b>
-<font color="#0f0">[sudo] password for user: </font>
-<font color="#fff">
-Actively learning more and more every day. Expanding my skill set in both the creative and dev worlds.
-</font>
-</pre>
-</div>
 
-<div align="left">
-<pre>
-<font color="#0f0">user</font><font color="#fff">@</font><font color="#0ff">github</font>:<font color="#ff0">~</font>$ <b>ls -l /skills/</b>
-<font color="#0f0">drwxr-xr-x</font> 2 user staff 4.0K <font color="#555">Jan 01 12:00</font> <font color="#0ff">development/</font>
-<font color="#0f0">drwxr-xr-x</font> 2 user staff 4.0K <font color="#555">Jan 01 12:00</font> <font color="#0ff">creative/</font>
-</pre>
-</div>
+## 🌐 Socials:
+[![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/mr.kholio) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/mr.kholio) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mr.kholio) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mr.kholio) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/mr.kholio) 
 
-<div align="left">
-<pre>
-<font color="#0f0">user</font><font color="#fff">@</font><font color="#0ff">github</font>:<font color="#ff0">~</font>$ <b>ls /skills/development/</b>
-<font color="#fff">Python.kv Flutter.dart HTML.html CSS.css JS.js</font>
-</pre>
-</div>
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Epic Games](https://img.shields.io/badge/epicgames-%23313131.svg?style=for-the-badge&logo=epicgames&logoColor=white) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=MrKholi0&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=MrKholi0&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=MrKholi0&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-<div align="left">
-<pre>
-<font color="#0f0">user</font><font color="#fff">@</font><font color="#0ff">github</font>:<font color="#ff0">~</font>$ <b>ls /skills/creative/</b>
-<font color="#fff">Photoshop.psd Illustrator.ai AfterEffects.aep Premiere.pro</font>
-</pre>
-</div>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=MrKholi0&theme=dracula&no-frame=false&no-bg=true&margin-w=4)
 
-<div align="left">
-<pre>
-<font color="#0f0">user</font><font color="#fff">@</font><font color="#0ff">github</font>:<font color="#ff0">~</font>$ <b>cat ~/tools.txt</b>
-<font color="#0f0">------------------------------------------------</font>
-<font color="#fff">
-My favorite tools in the toolbox:
-</font>
-<font color="#fff">
-- Photoshop
-- Illustrator
-- After Effects
-- Premiere Pro
-- VS Code
-</font>
-<font color="#0f0">------------------------------------------------</font>
-</pre>
-</div>
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
 
-<div align="left">
-<pre>
-<font color="#0f0">user</font><font color="#fff">@</font><font color="#0ff">github</font>:<font color="#ff0">~</font>$ <b>ls ~/projects/</b>
-<font color="#0f0">drwxr-xr-x</font> 2 user staff 4.0K <font color="#555">Jan 01 12:00</font> <font color="#f80">🐍 python_automation_tool</font>
-<font color="#0f0">drwxr-xr-x</font> 2 user staff 4.0K <font color="#555">Jan 01 12:00</font> <font color="#08f">📱 flutter_ui_kit</font>
-<font color="#0f0">drwxr-xr-x</font> 2 user staff 4.0K <font color="#555">Jan 01 12:00</font> <font color="#f0f">🎨 creative_portfolio_site</font>
-<font color="#0f0">drwxr-xr-x</font> 2 user staff 4.0K <font color="#555">Jan 01 12:00</font> <font color="#8f0">🖥️ kivy_cross_platform_app</font>
-</pre>
-</div>
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=MrKholi0&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-<div align="center">
-<pre>
-<font color="#0f0"> ,_ _</font>
-<font color="#0f0"> |o"~"~-.,_|</font>
-<font color="#0f0"> |`~._|_`"~|</font>
-<font color="#0f0"> | | `~" |</font>
-<font color="#0f0"> | | | | |</font>
-<font color="#0f0"> '-' '-' '-'</font>
-</pre>
-</div>
+---
+[![](https://visitcount.itsvg.in/api?id=MrKholi0&icon=7&color=4)](https://visitcount.itsvg.in)
 
-<div align="center">
-<pre>
-<font color="#fff">Let's Connect!</font>
-<a href="https://www.linkedin.com/in/yourusername"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="https://twitter.com/yourusername"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>
-<a href="https://your-website.com"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" alt="Portfolio" /></a>
-</pre>
-</div>
-
-<div align="left">
-<pre>
-<font color="#0f0">user</font><font color="#fff">@</font><font color="#0ff">github</font>:<font color="#ff0">~</font>$ <b>echo "Talk is cheap. Show me the code."</b>
-<font color="#fff">Talk is cheap. Show me the code.</font>
-<font color="#0f0">user</font><font color="#fff">@</font><font color="#0ff">github</font>:<font color="#ff0">~</font>$ <b>_</b> <font color="#fff"><blink>_</blink></font>
-</pre>
-</div>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
